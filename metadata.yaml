@@ -1,0 +1,48 @@
+_repo: Young-Folks-Bible-in-Words-of-Easy-ReadingThe-Sweet-Stories-of-God-s-Word-in-the-Language-of-__39431
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Milburn, William Henry
+    birthdate: 1823
+    deathdate: 1903
+    gutenberg_agent_id: '38475'
+    url: http://www.gutenberg.org/2009/agents/38475
+  contributors:
+  - agent_name: Barrows, John Henry
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '40003'
+    url: http://www.gutenberg.org/2009/agents/40003
+  - agent_name: Swing, David
+    birthdate: 1830
+    deathdate: 1894
+    gutenberg_agent_id: '45531'
+    url: http://www.gutenberg.org/2009/agents/45531
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pollard, Josephine
+    birthdate: 1834
+    deathdate: 1892
+    gutenberg_agent_id: '38122'
+    url: http://www.gutenberg.org/2009/agents/38122
+description: ''
+gutenberg_issued: '2012-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Paraphrases, English'
+- !lcsh 'Bible stories, English -- Juvenile literature'
+- !lcc 'BS'
+- !lcsh 'Christian life -- Juvenile literature'
+title: 'Young Folks'' Bible in Words of Easy Reading
+
+  The Sweet Stories of God''s Word in the Language of Childhood'
+url: http://www.gutenberg.org/ebooks/39431
