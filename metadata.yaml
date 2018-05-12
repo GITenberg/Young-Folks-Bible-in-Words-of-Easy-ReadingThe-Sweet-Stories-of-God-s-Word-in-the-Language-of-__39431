@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '38122'
     url: http://www.gutenberg.org/2009/agents/38122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39431#Young-Folks-Bible-in-Words-of-Easy-ReadingThe-Sweet-Stories-of-God-s-Word-in-the-Language-of-_
 gutenberg_issued: '2012-04-12'
 gutenberg_type: Text
 identifiers:
